@@ -1,4 +1,7 @@
 # The demo for usage of [ent proto](https://github.com/pigfall/contrib)
+这是一个使用教程，你应该自己创建一个项目然后跟着操作体会一次ent proto的使用方式
+
+
 We will create three schema for demo
 
 # Init ent schema
